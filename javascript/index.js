@@ -46,28 +46,28 @@ tick();
 
 function TikTok() {
     setTimeout(function() {
-            window.open('https://www.tiktok.com/@nghiepcoder16', 'ultimate')
+            window.open('https://www.tiktok.com/@sakport', 'ultimate')
         },
         100);
 }
 
 function Facebook() {
     setTimeout(function() {
-            window.open('https://www.facebook.com/NghiepMeow.Developer', 'ultimate')
+            window.open('https://www.facebook.com/rename.meta', 'ultimate')
         },
         100);
 }
 
 function Github() {
     setTimeout(function() {
-            window.open('https://github.com/NghiepCoder16', 'ultimate')
+            window.open('https://github.com/kinzmodgame', 'ultimate')
         },
         100);
 }
 
 function Telegram() {
     setTimeout(function() {
-            window.open('https://t.me/NghiepMeow', 'ultimate')
+            window.open('https://t.me/', 'ultimate')
         },
         100);
 }
